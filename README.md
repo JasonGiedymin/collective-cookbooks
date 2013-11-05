@@ -1,0 +1,4 @@
+collective-cookbooks
+====================
+
+cookbooks yo!
